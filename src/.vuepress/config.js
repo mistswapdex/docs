@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Vuepress Docs Boilerplate',
+  title: 'MistSwap',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -21,50 +21,75 @@ module.exports = {
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
 
+  theme: 'antdocs',
+  backToTop: true,
+
   /**
    * Theme configuration, here is the default theme configuration for VuePress.
    *
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: '',
+    logo: '/assets/img/logo.png',
+    repo: 'https://github.com/mistswapdex/docs',
     editLinks: false,
     docsDir: '',
     editLinkText: '',
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'tokenomics',
+        link: '/tokenomics/',
       },
       {
-        text: 'Config',
-        link: '/config/'
+        text: 'products',
+        link: '/products/',
       },
       {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
-      }
+        text: 'exchange',
+        link: 'https://app.mistswap.fi'
+      },
     ],
-    sidebar: {
-      '/guide/': [
-        {
-          title: 'Guide',
-          collapsable: false,
-          children: [
-            '',
-            'using-vue',
-          ]
-        }
-      ],
-    }
+    sidebar: [
+      '/',
+      ['/tokenomics/', 'Tokenomics'],
+      {
+        title: 'Products',
+        collapsable: false,
+        children: [ 
+          {
+            title: 'MistyLake',
+            children: [
+              ['/products/mistylake/', 'Overview'],
+            ],
+          },
+          {
+            title: 'Exchange',
+            children: [
+              ['/products/amm-exchange/', 'Overview'],
+              ['/products/amm-exchange/liquidity-pools/', 'Liquidity Pools'],
+            ],
+          },
+          {
+            title: 'Yield Farming',
+            children: [
+              ['/products/yield-farming/', 'Overview'],
+              ['/products/yield-farming/the-mistbar/', 'MistBar'],
+            ],
+          },
+        ],
+      },
+    ],
   },
 
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
   plugins: [
-    '@vuepress/plugin-back-to-top',
-    '@vuepress/plugin-medium-zoom',
+    ['homebadge', {
+      selector: '.hero',
+      repoLink: 'https://github.com/mistswapdex/docs',
+      badgeLink: 'https://img.shields.io/github/stars/mistswapdex/docs?style=social',
+    }],
   ]
 }
