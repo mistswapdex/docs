@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /assets/img/hero.png
-tagline: 
+tagline: Trade, launch, stake, farm, invest, automate, build on the premier DeFi platform of smartBCH
 actionText: Quick Start →
 actionLink: /products/
 features:
