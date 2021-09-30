@@ -121,6 +121,7 @@ module.exports = {
         children: [ 
           ['/ecosystem/developers/', 'Developers'],
           ['/ecosystem/branding/', 'Branding'],
+          ['/ecosystem/token-listing/', 'Token Listing'],
         ],
       }
     ],
