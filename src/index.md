@@ -36,9 +36,9 @@ footerWrap:
 
 ## What is Mist?
 
-Mist is a community-driven organization built to solve what might be called the “liquidity problem.” One could define this problem as the inability of disparate forms of liquidity to connect with markets in a decentralized way, and vice versa. While other solutions provide incrementally progressive advances toward solving the problem of liquidity, Mist’s progress is intended to create a broader range of network effects. Rather than limiting itself to a single solution, Mist intertwines many decentralized markets and instruments. Thus far, the core products, which will be described in more detail here, include a decentralized exchange, a decentralized lending market, yield instruments, and staking derivatives. Mist’s products are configured in a way that allows the entire platform to maintain decentralized governance of MIST token holders, while continuing to innovate on the collective foundations by design. Whereas major structural changes are voted on by the community, the day-to-day operations, rebalancing of pools and ratios, business strategy, and overall development is ultimately decided on by Kasumi and the core team.
+Mist is a smartBCH exchange, and a suite of tools to help empower the individual. Our main product is MistSwap, the exchange, which is based on the popular SushiSwap exchange. 
 
-The following documentation details the functional and technical aspects of the ecosystem products, as well as customized video tutorials attached.
+The following documentation details the functional and technical aspects of the ecosystem products.
 
 In order to partake in the Mist ecosystem, please join our discord <https://discord.gg/89NADr3Fkr>.
 
