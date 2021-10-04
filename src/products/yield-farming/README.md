@@ -22,7 +22,7 @@ Here is a description of the two types of yield:
 Now that you know what the two forms of yield are, you can try to stack them yourself. Start small if you like, by finding a token pair that you want to hold, and using it to stack two types of yield on Mist. Usually, the pairs require BCH and a second token, but the following example can be any pair that's on the permanent menu:
 
 1. Provide liquidity on MistSwap by entering a pool that is incentivized by Mist (<https://app.mistswap.fi/pool>).
-2. Deposit the liquidity token (SLP) you received after supplying liquidity into a yield farm (<https://app.mistswap.fi/yield>), and earn MIST.
+2. Deposit the liquidity token (MLP) you received after supplying liquidity into a yield farm (<https://app.mistswap.fi/yield>), and earn MIST.
 3. Stake your MIST rewards for additional yield (<https://app.mistswap.fi/stake>), and earn XMIST.
 
 Unstaking or adding MLP tokens to a farm will automatically harvest any rewards you have available. A good way to save on gas
