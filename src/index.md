@@ -19,6 +19,9 @@ footerWrap:
   - title: Discord
     link: https://discord.gg/SkVK3bxWCq
     details: Join the community!
+  - title: Telegram
+    link: https://t.me/MistSwapOfficial
+    details: Join the community!
   - title: Twitter
     link: https://twitter.com/mistswapdex
     details: Keep up to date!
