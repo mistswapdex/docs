@@ -17,7 +17,7 @@ footerWrap:
 - headline: Social
   items:
   - title: Discord
-    link: https://discord.gg/89NADr3Fkr
+    link: https://discord.gg/xFTnQEzu9T
     details: Join the community!
   - title: Twitter
     link: https://twitter.com/mistswapdex
