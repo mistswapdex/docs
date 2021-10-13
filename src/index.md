@@ -17,7 +17,7 @@ footerWrap:
 - headline: Social
   items:
   - title: Discord
-    link: https://discord.gg/SkVK3bxWCq
+    link: https://discord.gg/xFTnQEzu9T
     details: Join the community!
   - title: Telegram
     link: https://t.me/MistSwapOfficial
