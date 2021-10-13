@@ -43,7 +43,7 @@ Mist is a smartBCH exchange, and a suite of tools to help empower the individual
 
 The following documentation details the functional and technical aspects of the ecosystem products.
 
-In order to partake in the Mist ecosystem, please join our discord <https://discord.gg/89NADr3Fkr>.
+In order to partake in the Mist ecosystem, please join our discord <https://discord.gg/xFTnQEzu9T>.
 
 To interact with our products, please explore the links below:
 
