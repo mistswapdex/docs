@@ -104,6 +104,7 @@ module.exports = {
             children: [
               ['/products/amm-exchange/', 'Overview'],
               ['/products/amm-exchange/liquidity-pools/', 'Liquidity Pools'],
+              ['/products/amm-exchange/farm-allocation-algorithm/', 'Farm Allocation Algorithm'],
             ],
           },
           {
