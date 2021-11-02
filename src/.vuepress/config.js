@@ -89,6 +89,7 @@ module.exports = {
     sidebar: [
       '/',
       ['/tokenomics/', 'Tokenomics'],
+      ['/security/', 'Security'],
       {
         title: 'Products',
         collapsable: false,
