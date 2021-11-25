@@ -118,6 +118,43 @@ module.exports = {
         ],
       },
       {
+        title: 'API',
+        collapsable: false,
+        children: [
+          ['/api/', 'Overview'], 
+          {
+            title: 'Subgraphs',
+            children: [
+              {
+                title: 'Marker',
+                children: [
+                  ['/api/subgraphs/marker/entities/', 'Entities'], 
+                ]
+              },
+              {
+                title: 'Exchange',
+                children: [
+                  ['/api/subgraphs/exchange/entities/', 'Entities'], 
+                  ['/api/subgraphs/exchange/queries/', 'Queries'], 
+                ]
+              },
+              {
+                title: 'MistBar',
+                children: [
+                  ['/api/subgraphs/mistBar/entities/', 'Entities'], 
+                ]
+              },
+              {
+                title: 'MasterChef',
+                children: [
+                  ['/api/subgraphs/masterChef/entities/', 'Entities'], 
+                ]
+              }
+            ],
+          },
+        ]
+      },
+      {
         title: 'Ecosystem',
         collapsable: false,
         children: [ 
@@ -133,6 +170,11 @@ module.exports = {
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
   plugins: [],
+
+  /**
+   * Markdown
+   */
+  markdown: {},
 
   /**
    * Internationalization locales
