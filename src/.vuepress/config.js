@@ -101,7 +101,7 @@ module.exports = {
             ],
           },
           {
-            title: 'Exchange',
+            title: 'MistSwap',
             children: [
               ['/products/amm-exchange/', 'Overview'],
               ['/products/amm-exchange/liquidity-pools/', 'Liquidity Pools'],
