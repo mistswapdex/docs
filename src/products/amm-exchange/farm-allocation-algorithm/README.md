@@ -3,7 +3,7 @@
 ---
 
 ::: tip
-Make sure you read about [Yield Farming]((/products/amm-exchange/yield-farming) to understand the purpose of this page.
+Make sure you read about [Yield Farming](/products/amm-exchange/yield-farming) to understand the purpose of this page.
 :::
 
 
