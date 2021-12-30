@@ -25,4 +25,4 @@ Now that you know what the two forms of yield are, you can try to stack them you
 2. Deposit the liquidity token (MLP) you received after supplying liquidity into a yield farm (<https://app.mistswap.fi/yield>), and earn MIST.
 3. Stake your MIST rewards for additional yield (<https://app.mistswap.fi/stake>), and earn XMIST.
 
-Unstaking or adding MLP tokens to a farm will automatically harvest any rewards you have available. A good way to save on gas
+Unstaking or adding MLP tokens to a farm will automatically harvest any rewards you have available. A good way to save on gas.
