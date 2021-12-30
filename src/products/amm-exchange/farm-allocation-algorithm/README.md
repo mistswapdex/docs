@@ -2,6 +2,11 @@
 
 ---
 
+::: tip
+Make sure you read about [Yield Farming]((/products/amm-exchange/yield-farming) to understand the purpose of this page.
+:::
+
+
 ## What is a Farm Allocation Algorithm?
 
 Most DEX's use a developer selected multiplier on yield farms to reward in a native token. MistSwap has decided to do something else, and make this choice mathematical in a way to optimize amount of volume and ensure fairness of the platform. In essence, this means that the rewards from yield farming on MistSwap are determined by the properties of the trading pairs and how they compare to each other.

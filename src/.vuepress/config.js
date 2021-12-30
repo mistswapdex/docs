@@ -105,14 +105,9 @@ module.exports = {
             children: [
               ['/products/amm-exchange/', 'Overview'],
               ['/products/amm-exchange/liquidity-pools/', 'Liquidity Pools'],
+              ['/products/amm-exchange/yield-farming/', 'Yield Farming'],
+              ['/products/amm-exchange/the-mistbar/', 'MistBar'],
               ['/products/amm-exchange/farm-allocation-algorithm/', 'Farm Allocation Algorithm'],
-            ],
-          },
-          {
-            title: 'Yield Farming',
-            children: [
-              ['/products/yield-farming/', 'Overview'],
-              ['/products/yield-farming/the-mistbar/', 'MistBar'],
             ],
           },
         ],
