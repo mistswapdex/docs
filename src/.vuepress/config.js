@@ -90,6 +90,19 @@ module.exports = {
       ['/tokenomics/', 'Tokenomics'],
       ['/security/', 'Security'],
       {
+        title: 'Governance',
+        collapsable: false,
+        children: [
+          ['/governance/', 'Overview'], 
+          {
+            title: 'Vote',
+            children: [
+              ['/governance/vote/', 'Overview'],
+            ],
+          },
+        ],
+      },
+      {
         title: 'Products',
         collapsable: false,
         children: [
