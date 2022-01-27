@@ -8,7 +8,7 @@
 
 Vote is how the MistSwap community resolves hard to answer questions about the future of MistSwap.
 
-## How to vote on a proposal
+## How to vote on a proposal?
 
 Simply navigate to <https://app.mistswap.fi/vote> and view the open proposals. Clicking on them will show more of the proposal, and clicking "View proposal details" will show the full information. It is recommended to join [Discord](https://discord.com/invite/mistswapdex) and navigate to the `#governance` channel to view the relevant discussion about the proposal. Please only vote if you are informed on the topic.
 
@@ -16,7 +16,7 @@ The xMIST you held at the snapshot block will count for your vote weight. Curren
 
 
 
-## How to create a proposal
+## How to create a proposal?
 
 ### Bring topic up for discussion
 
