@@ -18,7 +18,7 @@
 
  * Create a pull request to the main repo
 
- * Add link to [https://github.com/mistswapdex/default-token-list](mistswapdex/default-token-list) Issue
+ * Add link to <https://github.com/mistswapdex/default-token-list> Issue
 
 ## To add to Token List
 
