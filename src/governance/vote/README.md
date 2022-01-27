@@ -46,7 +46,7 @@ People will be able to respond to your proposal request and give feedback. This 
 
 ### Create Pull Request on xmist-governance
 
-Once a proposal has been discussed sufficiently to where you think it makes sense to open it to a vote, you can make a PR at the [xmist-governance](https://github.com/mistswapdex/xmist-governance) repository. 
+Once a proposal has been discussed sufficiently to where you think it makes sense to open it to a vote, you can make a PR at the [xmist-governance](https://github.com/mistswapdex/xmist-governance) repository. If you need assistance making a PR, do not hesitate to ask in the `#governance` group - a member of the MistSwap team can assist.
 
 ## How are proposals decided upon?
 
