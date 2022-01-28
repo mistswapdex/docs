@@ -108,12 +108,6 @@ module.exports = {
         children: [
           ['/products/', 'Overview'], 
           {
-            title: 'MistyLake',
-            children: [
-              ['/products/mistylake/', 'Overview'],
-            ],
-          },
-          {
             title: 'MistSwap',
             children: [
               ['/products/amm-exchange/', 'Overview'],
@@ -121,6 +115,18 @@ module.exports = {
               ['/products/amm-exchange/yield-farming/', 'Yield Farming'],
               ['/products/amm-exchange/the-mistbar/', 'MistBar'],
               ['/products/amm-exchange/farm-allocation-algorithm/', 'Farm Allocation Algorithm'],
+            ],
+          },
+          {
+            title: 'Bridge',
+            children: [
+              ['/products/bridge/', 'Overview'],
+            ],
+          },
+          {
+            title: 'MistyLake',
+            children: [
+              ['/products/mistylake/', 'Overview'],
             ],
           },
         ],

@@ -10,15 +10,13 @@ The main product of MistSwap. This is where you can exchange and invest tokens.
 
 [Read more about the exchange](/products/amm-exchange/)
 
+## Bridge
 
+<https://app.mistswap.fi/bridge>
 
-## MistBar
+Convert cryptocurrencies to/from smartBCH instantly.
 
-<https://app.mistswap.fi/stake>
-
-Earn extra yield with MistBar. This is where you can stake MIST for xMIST.
-
-[Read more about MistBar](/products/amm-exchange/)
+[Read more about Bridge](/products/bridge/)
 
 ## MistyLake
 
