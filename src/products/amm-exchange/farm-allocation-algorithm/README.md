@@ -13,7 +13,7 @@ Most DEX's use a developer selected multiplier on yield farms to reward in a nat
 
 ## How does MistSwap's algorithm work?
 
-First, the top 30 pairs by volume are selected. We set an allocation floor of 0.25% (Currently 0.25 MIST per block out of 100 total MIST issuance per block) for each. The total volume of the pair over the preceeding month is multiplied by the volatility of the pair over the preceeding month.
+First, the MIST/BCH pair is given a 30% allocation. Then, the next top 29 pairs by volume are selected (making a total of 30 pairs). We set an allocation floor of 0.25% (Currently 0.25 MIST per block out of 100 total MIST issuance per block) for each. The total volume of the pair over the preceeding month is multiplied by the volatility of the pair over the preceeding month.
 
 [You can view the algorithm here](https://github.com/mistswapdex/mistswap-analytics/blob/master/src/pages/pools/upcoming.js)
 
