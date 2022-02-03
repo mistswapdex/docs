@@ -52,7 +52,7 @@ After 1 week of being available as a PR for people to read, the snapshot block w
 
 ## How are proposals decided upon?
 
-First, a quorum of at least 5% of xMIST total supply must have voted on the proposal. If this number is not reached the vote is declared undecided and may be retried in the future.
+First, a quorum of at least 20% of xMIST total supply must have voted on the proposal. If this number is not reached the vote is declared undecided and may be retried in the future.
 
 Then, if quorum is reached, the majority voted upon option is selected as winner.
 
