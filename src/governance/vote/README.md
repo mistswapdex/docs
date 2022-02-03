@@ -48,6 +48,8 @@ People will be able to respond to your proposal request and give feedback. This 
 
 Once a proposal has been discussed sufficiently to where you think it makes sense to open it to a vote, you can make a PR at the [xmist-governance](https://github.com/mistswapdex/xmist-governance) repository. If you need assistance making a PR, do not hesitate to ask in the `#governance` group - a member of the MistSwap team can assist.
 
+After 1 week of being available as a PR for people to read, the snapshot block will be updated and the PR will be merged and available for people to vote.
+
 ## How are proposals decided upon?
 
 First, a quorum of at least 5% of xMIST total supply must have voted on the proposal. If this number is not reached the vote is declared undecided and may be retried in the future.
