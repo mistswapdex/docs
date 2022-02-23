@@ -1,12 +1,12 @@
 # Overview
 
-This page explains everything you need to know about the MistSwap Subgraph. The MistSwap Subgraph listens for events from one or more data sources \(Smart Contracts\) on the Ethereum Blockchain. It handles indexing and caching of data which can later be queried using an exposed GraphQL API, providing an excellent developer experience.
+This page explains everything you need to know about the MistSwap Subgraph. The MistSwap Subgraph listens for events from one or more data sources \(Smart Contracts\) on the smartBCH Blockchain. It handles indexing and caching of data which can later be queried using an exposed GraphQL API, providing an excellent developer experience.
 
 ### The Graph
 
 The MistSwap Subgraph is powered by [The Graph](https://thegraph.com).
 
-> The Graph is a protocol for building decentralized applications \(dApps\) quickly on Ethereum and IPFS using GraphQL.
+> The Graph is a protocol for building decentralized applications \(dApps\) quickly on smartBCH and IPFS using GraphQL.
 
 ### Data Sources
 
