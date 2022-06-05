@@ -129,6 +129,18 @@ module.exports = {
               ['/products/mistylake/', 'Overview'],
             ],
           },
+          {
+            title: 'Smart Safe',
+            children: [
+              ['/products/smartsafe/', 'Overview'],
+            ],
+          },
+          {
+            title: 'Sonar',
+            children: [
+              ['/products/sonar/', 'Overview'],
+            ],
+          },
         ],
       },
       {
