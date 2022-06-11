@@ -26,4 +26,4 @@ Join the `#listing-requests` channel in [Discord](https://discord.gg/xFTnQEzu9T)
 
 ## To become a Farmable Token
 
-Please ensure your token has significant trading and liquidity before requesting.
+Please read [Farm Allocation Algorithm](/products/amm-exchange/farm-allocation-algorithm/) section - our farm listings are automated.
